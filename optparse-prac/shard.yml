@@ -1,0 +1,11 @@
+name: optparse-prac
+version: 0.1.0
+
+authors:
+  - Ryo Ota <nwtgck@gmail.com>
+
+targets:
+  crystal-prac:
+    main: main.cr
+
+license: MIT
