@@ -18,3 +18,6 @@ p(B(Int32).new.class)
 
 p(B(B(String)).new.class)
 # => B(B(String))
+
+p({name: "Crystal", year: 2011}.class)
+# => NamedTuple(name: String, year: Int32)
